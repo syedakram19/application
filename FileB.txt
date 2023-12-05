@@ -1,2 +1,3 @@
 This is fileB.
 Lets make change
+.s
